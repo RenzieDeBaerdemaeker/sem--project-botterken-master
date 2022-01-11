@@ -1,0 +1,139 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+header {
+    background-color: #080808;
+    display: flex;
+    align-items: center;
+    position: relative;
+    height: 8vh;
+}
+
+.naam {
+    color:white;
+    margin: 1% 2.5%;
+    font-size: large;
+}
+
+.login-regristreer-btns{
+    margin: 1%;
+    position: absolute;
+    right: 0;
+    display: flex;
+}
+
+.login{
+    background-color: #828999;
+    border: none;
+    color: white;
+    padding: 8px;
+    border-radius: 2rem;
+    margin-right: 15px;
+    font-size: 15px;
+}
+
+.login:hover{
+    background-color: #75787e;
+}
+
+.regristreer:hover{
+    background-color: #75787e;
+}
+
+.regristreer{
+    background-color: #828999;
+    border: none;
+    color: white;
+    padding: 8px;
+    border-radius: 2rem;
+    font-size: 15px;
+}
+
+.sidebar{
+    background-color: black;
+    width: 15%;
+    height: 92vh;
+}
+
+.sidebar .logo-img{
+    background-color: white;
+    justify-content: center;
+}
+
+.bot-logo{
+    width: 70%;
+    position: relative;
+    left: 12%;
+}
+
+.nav-links a {
+    color: white;
+    text-decoration: none;
+}
+
+.nav-links li {
+    padding: 10%;
+}
+
+.nav-links li:hover {
+    background-color: #828999;
+}
+
+.facebook_img{
+    width: 15%;
+    padding: 50px 95px;
+}
+
+.container{
+    position: relative;
+}
+
+.img1{
+    position: absolute;
+    top: 0;
+    left: 15%;
+    width: 85%;
+    height: 726px;
+
+}
+
+.main{
+    position: relative;
+}
+.titel{
+    text-align: right;
+    pointer-events: none;
+    position: absolute;
+    right: 100px;
+    top: 50vh;
+}
+
+.titel h1 {
+    color: white;
+    font-size: 50px;
+}
+
+.titel p{
+    color: white;
+    font-size: 20px;
+}
+/* Met markering */
+/* .titel h1 mark{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    font-size: 40px;
+}
+
+.titel p mark{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    font-size: 20px;
+} */
