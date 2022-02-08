@@ -13,6 +13,7 @@
 | x | x | login knop met verbonden widget klaar | namiddag | school | 07/12 |
 |  | x | opkuis / Bepaalde margins / Buttons / Login + Registreerknop | Voormiddag | Thuis | 29/12 |
 | x | x | structuur database | namiddag | School | 01/02 |
+| x | x | mail-adressen verwijderd en toegevoegd | namiddag | School | 01/02 |
 
 # MoSCoW
 
@@ -82,7 +83,8 @@
    - recaptcha
 
 # To do
-Dynamische gedeelte
+Dynamische gedeelte:
+Database bewerken
 
 # KLAAR
 1. Contact kleur text + grootte textvak
