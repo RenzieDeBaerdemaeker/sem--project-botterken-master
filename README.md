@@ -14,6 +14,7 @@
 |  | x | opkuis / Bepaalde margins / Buttons / Login + Registreerknop | Voormiddag | Thuis | 29/12 |
 | x | x | structuur database | namiddag | School | 01/02 |
 | x | x | mail-adressen verwijderd en toegevoegd | namiddag | School | 01/02 |
+| x |  | Database: tabellen/columns toegevoegd | namiddag | School | 08/02 |
 
 # MoSCoW
 
@@ -79,12 +80,12 @@
        - Rekeningnr
          - ... €... naar ...
 
-8. Regristreren
+8. Registreren
    - recaptcha
 
 # To do
 Dynamische gedeelte:
-Database bewerken
+
 
 # KLAAR
 1. Contact kleur text + grootte textvak
@@ -96,3 +97,4 @@ Database bewerken
 7. Ondek meer leiden naar externe info pagina
 8. verzendknop aanpassen, want die is lelijk
 9. login knop weg vanonder bij contact
+10. Database bewerken: tabellen + columns toegevoegd
