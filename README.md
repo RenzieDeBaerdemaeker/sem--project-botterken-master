@@ -12,6 +12,7 @@
 | x |  | website: code al het vorig werk herschreven  | na school | thuis | 01/12 |
 | x | x | login knop met verbonden widget klaar | namiddag | school | 07/12 |
 |  | x | opkuis / Bepaalde margins / Buttons / Login + Registreerknop | Voormiddag | Thuis | 29/12 |
+| x | x | structuur database | namiddag | School | 01/02 |
 
 # MoSCoW
 
@@ -81,7 +82,9 @@
    - recaptcha
 
 # To do
+Dynamische gedeelte
 
+# KLAAR
 1. Contact kleur text + grootte textvak
 2. Kleuren aanpassen
 3. marges fixen
