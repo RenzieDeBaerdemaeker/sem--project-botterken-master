@@ -15,6 +15,7 @@
 | x | x | structuur database | namiddag | School | 01/02 |
 | x | x | mail-adressen verwijderd en toegevoegd | namiddag | School | 01/02 |
 | x |  | Database: tabellen/columns toegevoegd | namiddag | School | 08/02 |
+| x |  | Dummy login form met php gemaakt + tutorial gevolgd | namiddag | School | 08/02 |
 
 # MoSCoW
 
@@ -85,6 +86,11 @@
 
 # To do
 Dynamische gedeelte:
+
+OPDRACHT:
+In phpMyAdmin:
+Plaats een tekstje in vervoer, en probeer dat tekstje te plaatsen op een pagina.
+
 Login form php
 
 # KLAAR
