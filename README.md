@@ -95,6 +95,7 @@ Plaats een tekstje in vervoer, en probeer dat tekstje te plaatsen op een pagina.
    - Beveiliging niet zelf schrijven
    - 1 waarde
    - Waarde eruit halen en daarna plaatsen
+   - Querry maken
 )
 
 Login form php
